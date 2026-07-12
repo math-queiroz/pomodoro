@@ -40,7 +40,6 @@ export default class PomodoroPreferences extends ExtensionPreferences {
         window.add(aboutPage);
         const supportGroup = new Adw.PreferencesGroup({
             title: _('Focus Timer'),
-            description: _('A calm Pomodoro timer made for GNOME Shell 45–50 by lsantiagoba.'),
         });
         aboutPage.add(supportGroup);
         const donateRow = new Adw.ActionRow({

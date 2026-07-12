@@ -1,6 +1,7 @@
 import Clutter from 'gi://Clutter';
 import Gio from 'gi://Gio';
 import GLib from 'gi://GLib';
+import GObject from 'gi://GObject';
 import St from 'gi://St';
 
 import * as Main from 'resource:///org/gnome/shell/ui/main.js';
@@ -10,6 +11,7 @@ import {Extension, gettext as _} from 'resource:///org/gnome/shell/extensions/ex
 
 const Mode = Object.freeze({FOCUS: 'focus', SHORT_BREAK: 'short-break', LONG_BREAK: 'long-break'});
 
+const FocusTimerIndicator = GObject.registerClass(
 class FocusTimerIndicator extends PanelMenu.Button {
     constructor(extension) {
         super(0.0, _('Focus Timer'));
@@ -182,7 +184,7 @@ class FocusTimerIndicator extends PanelMenu.Button {
         this._settings = null;
         super.destroy();
     }
-}
+});
 
 export default class PomodoroExtension extends Extension {
     enable() {

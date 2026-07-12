@@ -7,4 +7,5 @@ OUT="pomodoro@lsbcodes.shell-extension.zip"
 rm -f "$OUT"
 glib-compile-schemas "$SRC_DIR/schemas"
 (cd "$SRC_DIR" && zip -r "../../$OUT" extension.js prefs.js stylesheet.css metadata.json schemas)
+zip "$OUT" icon.png
 echo "Created $OUT"

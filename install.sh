@@ -13,6 +13,7 @@ fi
 
 mkdir -p "$DEST/schemas"
 cp "$SRC_DIR"/{extension.js,prefs.js,stylesheet.css,metadata.json} "$DEST/"
+cp icon.png "$DEST/"
 cp "$SRC_DIR/schemas/"*.xml "$DEST/schemas/"
 glib-compile-schemas "$DEST/schemas"
 
