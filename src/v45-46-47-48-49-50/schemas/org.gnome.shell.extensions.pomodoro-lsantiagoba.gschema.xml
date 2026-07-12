@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.pomodoro-lsantiagoba" path="/org/gnome/shell/extensions/pomodoro-lsantiagoba/">
+    <key name="focus-duration" type="i"><default>25</default><range min="1" max="120"/><summary>Focus duration</summary></key>
+    <key name="short-break-duration" type="i"><default>5</default><range min="1" max="60"/><summary>Short break duration</summary></key>
+    <key name="long-break-duration" type="i"><default>15</default><range min="1" max="90"/><summary>Long break duration</summary></key>
+    <key name="sessions-before-long-break" type="i"><default>4</default><range min="2" max="12"/><summary>Sessions before a long break</summary></key>
+    <key name="auto-start-breaks" type="b"><default>false</default><summary>Automatically start breaks</summary></key>
+    <key name="auto-start-focus" type="b"><default>false</default><summary>Automatically start focus sessions</summary></key>
+    <key name="show-notifications" type="b"><default>true</default><summary>Show notifications</summary></key>
+    <key name="play-sound" type="b"><default>true</default><summary>Play completion sound</summary></key>
+  </schema>
+</schemalist>
