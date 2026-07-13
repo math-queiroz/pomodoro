@@ -101,6 +101,7 @@ class FocusTimerIndicator extends PanelMenu.Button {
         this._running = !this._running;
         if (this._running) {
             this._deadline = GLib.get_monotonic_time() + this._remaining * GLib.USEC_PER_SEC;
+            this._stopTimeout();
             this._timeoutId = GLib.timeout_add_seconds(GLib.PRIORITY_DEFAULT, 1, () => this._tick());
         } else {
             this._stopTimeout();

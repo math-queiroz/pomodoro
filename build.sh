@@ -8,7 +8,6 @@ echo "Building Focus Timer…"
 for file in "${FILES[@]}"; do
     cp "$SRC_DIR/$file" ./
 done
-test -f icon.png
 rm -rf schemas
 cp -r "$SRC_DIR/schemas" ./schemas
 glib-compile-schemas schemas
