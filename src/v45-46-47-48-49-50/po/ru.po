@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Focus Timer 1\n"
+"Language: ru\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Focus Timer"
+msgstr "Таймер концентрации"
+
+msgid "Focus"
+msgstr "Фокус"
+
+msgid "Reset"
+msgstr "Сбросить"
+
+msgid "Start"
+msgstr "Запустить"
+
+msgid "Skip"
+msgstr "Пропустить"
+
+msgid "Timer Settings"
+msgstr "Настройки таймера"
+
+msgid "Focus session complete"
+msgstr "Сеанс концентрации завершён"
+
+msgid "Break complete"
+msgstr "Перерыв завершён"
+
+msgid "Nice work. Time to recharge."
+msgstr "Отличная работа. Пора восстановить силы."
+
+msgid "Ready for another focused session?"
+msgstr "Готовы к ещё одному сеансу концентрации?"
+
+msgid "Timer complete"
+msgstr "Таймер завершён"
+
+msgid "Focus session"
+msgstr "Сеанс концентрации"
+
+msgid "Short break"
+msgstr "Короткий перерыв"
+
+msgid "Long break"
+msgstr "Длинный перерыв"
+
+msgid "Pause"
+msgstr "Пауза"
+
+msgid "Resume"
+msgstr "Продолжить"
+
+msgid "Timer"
+msgstr "Таймер"
+
+msgid "Session durations"
+msgstr "Продолжительность сеансов"
+
+msgid "Shape a rhythm that works for you."
+msgstr "Настройте удобный для себя ритм."
+
+msgid "Minutes of uninterrupted work"
+msgstr "Минуты непрерывной работы"
+
+msgid "A quick pause between sessions"
+msgstr "Короткая пауза между сеансами"
+
+msgid "A longer pause after a focus cycle"
+msgstr "Более длинная пауза после цикла концентрации"
+
+msgid "Focus cycle"
+msgstr "Цикл концентрации"
+
+msgid "Sessions before a long break"
+msgstr "Сеансов до длинного перерыва"
+
+msgid "Automation"
+msgstr "Автоматизация"
+
+msgid "Start breaks automatically"
+msgstr "Автоматически начинать перерывы"
+
+msgid "Begin the next break without waiting"
+msgstr "Начать следующий перерыв без ожидания"
+
+msgid "Start focus automatically"
+msgstr "Автоматически начинать концентрацию"
+
+msgid "Begin the next session after a break"
+msgstr "Начать следующий сеанс после перерыва"
+
+msgid "Feedback"
+msgstr "Оповещения"
+
+msgid "Notifications"
+msgstr "Уведомления"
+
+msgid "Show a message when the timer finishes"
+msgstr "Показать сообщение по завершении таймера"
+
+msgid "Completion sound"
+msgstr "Звук завершения"
+
+msgid "Play the system completion sound"
+msgstr "Воспроизвести системный звук завершения"
+
+msgid "About"
+msgstr "О программе"
+
+msgid "Support development"
+msgstr "Поддержать разработку"
+
+msgid "If Focus Timer helps you, consider making a donation."
+msgstr "Если таймер концентрации вам помогает, подумайте о пожертвовании."
+
+msgid "Donate"
+msgstr "Пожертвовать"
+
+msgid "Source code"
+msgstr "Исходный код"
+
+msgid "A polished Pomodoro timer for the GNOME Shell panel."
+msgstr "Удобный таймер Pomodoro для панели GNOME Shell."
+
+msgid "%d session completed"
+msgid_plural "%d sessions completed"
+msgstr[0] "Завершён %d сеанс"
+msgstr[1] "Завершено %d сеанса"
+msgstr[2] "Завершено %d сеансов"
+

@@ -7,7 +7,7 @@ import St from 'gi://St';
 import * as Main from 'resource:///org/gnome/shell/ui/main.js';
 import * as PanelMenu from 'resource:///org/gnome/shell/ui/panelMenu.js';
 import * as PopupMenu from 'resource:///org/gnome/shell/ui/popupMenu.js';
-import {Extension, gettext as _} from 'resource:///org/gnome/shell/extensions/extension.js';
+import {Extension, gettext as _, ngettext} from 'resource:///org/gnome/shell/extensions/extension.js';
 
 const Mode = Object.freeze({FOCUS: 'focus', SHORT_BREAK: 'short-break', LONG_BREAK: 'long-break'});
 
@@ -164,7 +164,11 @@ class FocusTimerIndicator extends PanelMenu.Button {
             this._mode === Mode.SHORT_BREAK ? _('Short break') : _('Long break');
         this._modeLabel.text = modeText.toUpperCase();
         this._timerLabel.text = time;
-        this._sessionLabel.text = this._sessions === 1 ? _('1 session completed') : `${this._sessions} ${_('sessions completed')}`;
+        this._sessionLabel.text = ngettext(
+            '%d session completed',
+            '%d sessions completed',
+            this._sessions
+        ).replace('%d', this._sessions.toString());
         this._panelLabel.text = this._running ? time : _('Focus');
         this._panelIcon.icon_name = this._mode === Mode.FOCUS ? 'alarm-symbolic' : 'weather-clear-night-symbolic';
         this._startIcon.icon_name = this._running ? 'media-playback-pause-symbolic' : 'media-playback-start-symbolic';

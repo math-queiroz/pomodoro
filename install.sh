@@ -15,6 +15,12 @@ mkdir -p "$DEST/schemas"
 cp "$SRC_DIR"/{extension.js,prefs.js,stylesheet.css,metadata.json} "$DEST/"
 cp "$SRC_DIR/schemas/"*.xml "$DEST/schemas/"
 glib-compile-schemas "$DEST/schemas"
+rm -rf "$DEST/locale"
+for po_file in "$SRC_DIR"/po/*.po; do
+    language="$(basename "$po_file" .po)"
+    mkdir -p "$DEST/locale/$language/LC_MESSAGES"
+    msgfmt "$po_file" -o "$DEST/locale/$language/LC_MESSAGES/$UUID.mo"
+done
 
 echo "Focus Timer installed for GNOME Shell $VERSION."
 echo "Log out and back in, then enable it with:"

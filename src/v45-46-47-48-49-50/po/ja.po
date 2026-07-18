@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Focus Timer 1\n"
+"Language: ja\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Focus Timer"
+msgstr "集中タイマー"
+
+msgid "Focus"
+msgstr "集中"
+
+msgid "Reset"
+msgstr "リセット"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Skip"
+msgstr "スキップ"
+
+msgid "Timer Settings"
+msgstr "タイマー設定"
+
+msgid "Focus session complete"
+msgstr "集中セッションが完了しました"
+
+msgid "Break complete"
+msgstr "休憩が終了しました"
+
+msgid "Nice work. Time to recharge."
+msgstr "お疲れさまでした。ひと休みしましょう。"
+
+msgid "Ready for another focused session?"
+msgstr "次の集中セッションを始めますか？"
+
+msgid "Timer complete"
+msgstr "タイマー終了"
+
+msgid "Focus session"
+msgstr "集中セッション"
+
+msgid "Short break"
+msgstr "短い休憩"
+
+msgid "Long break"
+msgstr "長い休憩"
+
+msgid "Pause"
+msgstr "一時停止"
+
+msgid "Resume"
+msgstr "再開"
+
+msgid "Timer"
+msgstr "タイマー"
+
+msgid "Session durations"
+msgstr "セッション時間"
+
+msgid "Shape a rhythm that works for you."
+msgstr "自分に合ったリズムを作りましょう。"
+
+msgid "Minutes of uninterrupted work"
+msgstr "中断せずに作業する時間（分）"
+
+msgid "A quick pause between sessions"
+msgstr "セッション間の短い休憩"
+
+msgid "A longer pause after a focus cycle"
+msgstr "集中サイクル後の長い休憩"
+
+msgid "Focus cycle"
+msgstr "集中サイクル"
+
+msgid "Sessions before a long break"
+msgstr "長い休憩までのセッション数"
+
+msgid "Automation"
+msgstr "自動化"
+
+msgid "Start breaks automatically"
+msgstr "休憩を自動的に開始"
+
+msgid "Begin the next break without waiting"
+msgstr "待たずに次の休憩を開始します"
+
+msgid "Start focus automatically"
+msgstr "集中を自動的に開始"
+
+msgid "Begin the next session after a break"
+msgstr "休憩後に次のセッションを開始します"
+
+msgid "Feedback"
+msgstr "通知"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "Show a message when the timer finishes"
+msgstr "タイマー終了時にメッセージを表示します"
+
+msgid "Completion sound"
+msgstr "完了音"
+
+msgid "Play the system completion sound"
+msgstr "システムの完了音を再生します"
+
+msgid "About"
+msgstr "このアプリについて"
+
+msgid "Support development"
+msgstr "開発を支援"
+
+msgid "If Focus Timer helps you, consider making a donation."
+msgstr "集中タイマーが役立ったら、寄付をご検討ください。"
+
+msgid "Donate"
+msgstr "寄付"
+
+msgid "Source code"
+msgstr "ソースコード"
+
+msgid "A polished Pomodoro timer for the GNOME Shell panel."
+msgstr "GNOME Shell パネル用の洗練されたポモドーロタイマーです。"
+
+msgid "%d session completed"
+msgid_plural "%d sessions completed"
+msgstr[0] "%d セッション完了"
+

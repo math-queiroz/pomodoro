@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Focus Timer 1\n"
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Focus Timer"
+msgstr "집중 타이머"
+
+msgid "Focus"
+msgstr "집중"
+
+msgid "Reset"
+msgstr "초기화"
+
+msgid "Start"
+msgstr "시작"
+
+msgid "Skip"
+msgstr "건너뛰기"
+
+msgid "Timer Settings"
+msgstr "타이머 설정"
+
+msgid "Focus session complete"
+msgstr "집중 세션 완료"
+
+msgid "Break complete"
+msgstr "휴식 완료"
+
+msgid "Nice work. Time to recharge."
+msgstr "수고했어요. 이제 재충전할 시간이에요."
+
+msgid "Ready for another focused session?"
+msgstr "다음 집중 세션을 시작할까요?"
+
+msgid "Timer complete"
+msgstr "타이머 완료"
+
+msgid "Focus session"
+msgstr "집중 세션"
+
+msgid "Short break"
+msgstr "짧은 휴식"
+
+msgid "Long break"
+msgstr "긴 휴식"
+
+msgid "Pause"
+msgstr "일시 정지"
+
+msgid "Resume"
+msgstr "계속"
+
+msgid "Timer"
+msgstr "타이머"
+
+msgid "Session durations"
+msgstr "세션 시간"
+
+msgid "Shape a rhythm that works for you."
+msgstr "나에게 맞는 리듬을 만들어 보세요."
+
+msgid "Minutes of uninterrupted work"
+msgstr "방해 없이 작업할 시간(분)"
+
+msgid "A quick pause between sessions"
+msgstr "세션 사이의 짧은 휴식"
+
+msgid "A longer pause after a focus cycle"
+msgstr "집중 주기 후의 긴 휴식"
+
+msgid "Focus cycle"
+msgstr "집중 주기"
+
+msgid "Sessions before a long break"
+msgstr "긴 휴식 전 세션 수"
+
+msgid "Automation"
+msgstr "자동화"
+
+msgid "Start breaks automatically"
+msgstr "휴식 자동 시작"
+
+msgid "Begin the next break without waiting"
+msgstr "대기 없이 다음 휴식을 시작합니다"
+
+msgid "Start focus automatically"
+msgstr "집중 자동 시작"
+
+msgid "Begin the next session after a break"
+msgstr "휴식 후 다음 세션을 시작합니다"
+
+msgid "Feedback"
+msgstr "피드백"
+
+msgid "Notifications"
+msgstr "알림"
+
+msgid "Show a message when the timer finishes"
+msgstr "타이머가 끝나면 메시지를 표시합니다"
+
+msgid "Completion sound"
+msgstr "완료 소리"
+
+msgid "Play the system completion sound"
+msgstr "시스템 완료 소리를 재생합니다"
+
+msgid "About"
+msgstr "정보"
+
+msgid "Support development"
+msgstr "개발 지원"
+
+msgid "If Focus Timer helps you, consider making a donation."
+msgstr "집중 타이머가 도움이 된다면 후원을 고려해 주세요."
+
+msgid "Donate"
+msgstr "후원"
+
+msgid "Source code"
+msgstr "소스 코드"
+
+msgid "A polished Pomodoro timer for the GNOME Shell panel."
+msgstr "GNOME Shell 패널을 위한 세련된 뽀모도로 타이머입니다."
+
+msgid "%d session completed"
+msgid_plural "%d sessions completed"
+msgstr[0] "%d개 세션 완료"
+

@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Focus Timer 1\n"
+"Language: ar\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+
+msgid "Focus Timer"
+msgstr "مؤقت التركيز"
+
+msgid "Focus"
+msgstr "تركيز"
+
+msgid "Reset"
+msgstr "إعادة ضبط"
+
+msgid "Start"
+msgstr "بدء"
+
+msgid "Skip"
+msgstr "تخطي"
+
+msgid "Timer Settings"
+msgstr "إعدادات المؤقت"
+
+msgid "Focus session complete"
+msgstr "اكتملت جلسة التركيز"
+
+msgid "Break complete"
+msgstr "اكتملت الاستراحة"
+
+msgid "Nice work. Time to recharge."
+msgstr "عمل رائع. حان وقت استعادة النشاط."
+
+msgid "Ready for another focused session?"
+msgstr "هل أنت مستعد لجلسة تركيز أخرى؟"
+
+msgid "Timer complete"
+msgstr "اكتمل المؤقت"
+
+msgid "Focus session"
+msgstr "جلسة تركيز"
+
+msgid "Short break"
+msgstr "استراحة قصيرة"
+
+msgid "Long break"
+msgstr "استراحة طويلة"
+
+msgid "Pause"
+msgstr "إيقاف مؤقت"
+
+msgid "Resume"
+msgstr "استئناف"
+
+msgid "Timer"
+msgstr "المؤقت"
+
+msgid "Session durations"
+msgstr "مدد الجلسات"
+
+msgid "Shape a rhythm that works for you."
+msgstr "اضبط إيقاعًا يناسبك."
+
+msgid "Minutes of uninterrupted work"
+msgstr "دقائق من العمل دون انقطاع"
+
+msgid "A quick pause between sessions"
+msgstr "استراحة سريعة بين الجلسات"
+
+msgid "A longer pause after a focus cycle"
+msgstr "استراحة أطول بعد دورة تركيز"
+
+msgid "Focus cycle"
+msgstr "دورة التركيز"
+
+msgid "Sessions before a long break"
+msgstr "الجلسات قبل استراحة طويلة"
+
+msgid "Automation"
+msgstr "الأتمتة"
+
+msgid "Start breaks automatically"
+msgstr "بدء الاستراحات تلقائيًا"
+
+msgid "Begin the next break without waiting"
+msgstr "ابدأ الاستراحة التالية دون انتظار"
+
+msgid "Start focus automatically"
+msgstr "بدء التركيز تلقائيًا"
+
+msgid "Begin the next session after a break"
+msgstr "ابدأ الجلسة التالية بعد الاستراحة"
+
+msgid "Feedback"
+msgstr "التنبيهات"
+
+msgid "Notifications"
+msgstr "الإشعارات"
+
+msgid "Show a message when the timer finishes"
+msgstr "إظهار رسالة عند انتهاء المؤقت"
+
+msgid "Completion sound"
+msgstr "صوت الاكتمال"
+
+msgid "Play the system completion sound"
+msgstr "تشغيل صوت اكتمال النظام"
+
+msgid "About"
+msgstr "حول"
+
+msgid "Support development"
+msgstr "دعم التطوير"
+
+msgid "If Focus Timer helps you, consider making a donation."
+msgstr "إذا كان مؤقت التركيز يساعدك، ففكر في تقديم تبرع."
+
+msgid "Donate"
+msgstr "تبرع"
+
+msgid "Source code"
+msgstr "الشيفرة المصدرية"
+
+msgid "A polished Pomodoro timer for the GNOME Shell panel."
+msgstr "مؤقت بومودورو أنيق للوحة صدفة جنوم."
+
+msgid "%d session completed"
+msgid_plural "%d sessions completed"
+msgstr[0] "اكتملت %d جلسة"
+msgstr[1] "اكتملت جلسة واحدة"
+msgstr[2] "اكتملت جلستان"
+msgstr[3] "اكتملت %d جلسات"
+msgstr[4] "اكتملت %d جلسة"
+msgstr[5] "اكتملت %d جلسة"
+

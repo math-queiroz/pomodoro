@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Focus Timer 1\n"
+"Language: it\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Focus Timer"
+msgstr "Timer di concentrazione"
+
+msgid "Focus"
+msgstr "Concentrazione"
+
+msgid "Reset"
+msgstr "Reimposta"
+
+msgid "Start"
+msgstr "Avvia"
+
+msgid "Skip"
+msgstr "Salta"
+
+msgid "Timer Settings"
+msgstr "Impostazioni timer"
+
+msgid "Focus session complete"
+msgstr "Sessione di concentrazione completata"
+
+msgid "Break complete"
+msgstr "Pausa completata"
+
+msgid "Nice work. Time to recharge."
+msgstr "Ottimo lavoro. È ora di ricaricarsi."
+
+msgid "Ready for another focused session?"
+msgstr "Pronto per un'altra sessione di concentrazione?"
+
+msgid "Timer complete"
+msgstr "Timer completato"
+
+msgid "Focus session"
+msgstr "Sessione di concentrazione"
+
+msgid "Short break"
+msgstr "Pausa breve"
+
+msgid "Long break"
+msgstr "Pausa lunga"
+
+msgid "Pause"
+msgstr "Pausa"
+
+msgid "Resume"
+msgstr "Riprendi"
+
+msgid "Timer"
+msgstr "Timer"
+
+msgid "Session durations"
+msgstr "Durata delle sessioni"
+
+msgid "Shape a rhythm that works for you."
+msgstr "Crea un ritmo adatto a te."
+
+msgid "Minutes of uninterrupted work"
+msgstr "Minuti di lavoro senza interruzioni"
+
+msgid "A quick pause between sessions"
+msgstr "Una breve pausa tra le sessioni"
+
+msgid "A longer pause after a focus cycle"
+msgstr "Una pausa più lunga dopo un ciclo di concentrazione"
+
+msgid "Focus cycle"
+msgstr "Ciclo di concentrazione"
+
+msgid "Sessions before a long break"
+msgstr "Sessioni prima di una pausa lunga"
+
+msgid "Automation"
+msgstr "Automazione"
+
+msgid "Start breaks automatically"
+msgstr "Avvia automaticamente le pause"
+
+msgid "Begin the next break without waiting"
+msgstr "Inizia la pausa successiva senza attendere"
+
+msgid "Start focus automatically"
+msgstr "Avvia automaticamente la concentrazione"
+
+msgid "Begin the next session after a break"
+msgstr "Inizia la sessione successiva dopo una pausa"
+
+msgid "Feedback"
+msgstr "Feedback"
+
+msgid "Notifications"
+msgstr "Notifiche"
+
+msgid "Show a message when the timer finishes"
+msgstr "Mostra un messaggio al termine del timer"
+
+msgid "Completion sound"
+msgstr "Suono di completamento"
+
+msgid "Play the system completion sound"
+msgstr "Riproduci il suono di completamento del sistema"
+
+msgid "About"
+msgstr "Informazioni"
+
+msgid "Support development"
+msgstr "Sostieni lo sviluppo"
+
+msgid "If Focus Timer helps you, consider making a donation."
+msgstr "Se il timer di concentrazione ti è utile, considera una donazione."
+
+msgid "Donate"
+msgstr "Dona"
+
+msgid "Source code"
+msgstr "Codice sorgente"
+
+msgid "A polished Pomodoro timer for the GNOME Shell panel."
+msgstr "Un raffinato timer Pomodoro per il pannello di GNOME Shell."
+
+msgid "%d session completed"
+msgid_plural "%d sessions completed"
+msgstr[0] "%d sessione completata"
+msgstr[1] "%d sessioni completate"
+

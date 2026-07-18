@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Focus Timer 1\n"
+"Language: zh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Focus Timer"
+msgstr "专注计时器"
+
+msgid "Focus"
+msgstr "专注"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Start"
+msgstr "开始"
+
+msgid "Skip"
+msgstr "跳过"
+
+msgid "Timer Settings"
+msgstr "计时器设置"
+
+msgid "Focus session complete"
+msgstr "专注时段已完成"
+
+msgid "Break complete"
+msgstr "休息已结束"
+
+msgid "Nice work. Time to recharge."
+msgstr "干得漂亮。该休息充电了。"
+
+msgid "Ready for another focused session?"
+msgstr "准备好开始下一个专注时段了吗？"
+
+msgid "Timer complete"
+msgstr "计时结束"
+
+msgid "Focus session"
+msgstr "专注时段"
+
+msgid "Short break"
+msgstr "短休息"
+
+msgid "Long break"
+msgstr "长休息"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "Resume"
+msgstr "继续"
+
+msgid "Timer"
+msgstr "计时器"
+
+msgid "Session durations"
+msgstr "时段时长"
+
+msgid "Shape a rhythm that works for you."
+msgstr "打造适合你的节奏。"
+
+msgid "Minutes of uninterrupted work"
+msgstr "不间断工作的分钟数"
+
+msgid "A quick pause between sessions"
+msgstr "时段之间的短暂休息"
+
+msgid "A longer pause after a focus cycle"
+msgstr "专注周期后的较长休息"
+
+msgid "Focus cycle"
+msgstr "专注周期"
+
+msgid "Sessions before a long break"
+msgstr "长休息前的时段数"
+
+msgid "Automation"
+msgstr "自动化"
+
+msgid "Start breaks automatically"
+msgstr "自动开始休息"
+
+msgid "Begin the next break without waiting"
+msgstr "无需等待即开始下一次休息"
+
+msgid "Start focus automatically"
+msgstr "自动开始专注"
+
+msgid "Begin the next session after a break"
+msgstr "休息后开始下一个时段"
+
+msgid "Feedback"
+msgstr "反馈"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "Show a message when the timer finishes"
+msgstr "计时结束时显示消息"
+
+msgid "Completion sound"
+msgstr "完成提示音"
+
+msgid "Play the system completion sound"
+msgstr "播放系统完成提示音"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Support development"
+msgstr "支持开发"
+
+msgid "If Focus Timer helps you, consider making a donation."
+msgstr "如果专注计时器对你有帮助，请考虑捐赠。"
+
+msgid "Donate"
+msgstr "捐赠"
+
+msgid "Source code"
+msgstr "源代码"
+
+msgid "A polished Pomodoro timer for the GNOME Shell panel."
+msgstr "一款精致的 GNOME Shell 面板番茄钟。"
+
+msgid "%d session completed"
+msgid_plural "%d sessions completed"
+msgstr[0] "已完成 %d 个时段"
+

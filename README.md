@@ -9,6 +9,8 @@ A calm, native-looking Pomodoro timer for GNOME Shell 45–50.
 - Configurable durations and long-break interval
 - Optional automatic starts, notifications, and completion sound
 - Native GNOME/Libadwaita preferences
+- English plus Arabic, German, Spanish, French, Italian, Japanese, Korean,
+  Portuguese, Russian, and Chinese translations
 - Donate link for supporting development
 
 ## Install from source
