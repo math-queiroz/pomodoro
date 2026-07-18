@@ -9,7 +9,6 @@ trap 'rm -rf "$BUILD_DIR"' EXIT
 
 cp "$SRC_DIR"/{extension.js,prefs.js,stylesheet.css,metadata.json} "$BUILD_DIR/"
 cp -r "$SRC_DIR/schemas" "$BUILD_DIR/schemas"
-glib-compile-schemas "$BUILD_DIR/schemas"
 for po_file in "$SRC_DIR"/po/*.po; do
     language="$(basename "$po_file" .po)"
     mkdir -p "$BUILD_DIR/locale/$language/LC_MESSAGES"
